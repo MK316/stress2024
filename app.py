@@ -47,9 +47,9 @@ if user_input:
 
         # Display the results in a flashcard style
         st.markdown(f"<div style='font-size: 24px; padding: 10px; border: 6px solid #F9EB69; border-radius: 10px;'>"
-                    f"<strong>POS:</strong> {full_pos}<br>"
-                    f"<strong>Stress:</strong> {stress}<br>"
-                    f"<strong>Transcription:</strong> {transcription}"
+                    f"<strong>⚪ POS:</strong> {full_pos}<br>"
+                    f"<strong>⚪ Stress:</strong> {stress}<br>"
+                    f"<strong>⚪ Transcription:</strong> {transcription}"
                     f"</div>", unsafe_allow_html=True)
 
         # Add the audio player
