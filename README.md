@@ -2,4 +2,4 @@
 
 + Chapter 7 words
 + ID, Word, POS, Stress, Transcription, Variation, Page
-+ 2024. 12. 5
++ Dec.5, 2024
