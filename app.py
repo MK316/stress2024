@@ -53,5 +53,6 @@ if user_input:
                     f"</div>", unsafe_allow_html=True)
 
         # Add the audio player
-        st.caption("The audio uses Google TTS and plays the word with an American accent.")
+        st.write("")
+        st.caption("The following audio uses Google TTS and plays the word with an American accent.")
         st.audio(temp_file.name)
