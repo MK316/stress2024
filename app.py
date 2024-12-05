@@ -54,5 +54,5 @@ if user_input:
 
         # Add the audio player
         st.write("")
-        st.caption("The following audio uses Google TTS and plays the word with an American accent.")
+        st.caption("The audio below uses Google TTS and plays the word with an American accent.")
         st.audio(temp_file.name)
