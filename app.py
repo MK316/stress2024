@@ -24,7 +24,7 @@ if user_input:
         transcription = result.iloc[0]['Transcription']
 
         # Display the results in a flashcard style
-        st.markdown(f"<div style='font-size: 16px; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px;'>"
+        st.markdown(f"<div style='font-size: 24px; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px;'>"
                     f"<strong>POS:</strong> {pos}<br>"
                     f"<strong>Stress:</strong> {stress}<br>"
                     f"<strong>Transcription:</strong> {transcription}"
