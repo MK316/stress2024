@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+from gtts import gTTS
+import tempfile
 
 # Load the dataset from GitHub
 csv_url = "https://raw.githubusercontent.com/MK316/stress2024/refs/heads/main/data/stressdata1.csv"
@@ -36,6 +38,12 @@ if user_input:
         full_pos = convert_pos(pos)
         stress = result.iloc[0]['Stress']
         transcription = result.iloc[0]['Transcription']
+        word = result.iloc[0]['Word']
+
+        # Generate audio using gTTS
+        tts = gTTS(word)
+        temp_file = tempfile.NamedTemporaryFile(delete=False, suffix=".mp3")
+        tts.save(temp_file.name)
 
         # Display the results in a flashcard style
         st.markdown(f"<div style='font-size: 24px; padding: 10px; border: 2px solid #4CAF50; border-radius: 5px;'>"
@@ -43,3 +51,6 @@ if user_input:
                     f"<strong>Stress:</strong> {stress}<br>"
                     f"<strong>Transcription:</strong> {transcription}"
                     f"</div>", unsafe_allow_html=True)
+
+        # Add the audio player
+        st.audio(temp_file.name)
