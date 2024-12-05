@@ -21,8 +21,8 @@ def convert_pos(pos_abbreviations):
     return ", ".join(pos_list)
 
 # Set up the Streamlit interface
-st.title("📚 Word Search Application")
-
+st.title("📚 Word Stress Application")
+st.caption("This app displays the stress, part of speech, and transcription for words from Chapter 7 of the textbook. Enter the word you want to look up in the text box below.")
 # User input for searching a word
 user_input = st.text_input("Enter a word to search:", placeholder="Type a word here...")
 
