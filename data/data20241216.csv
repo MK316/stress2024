@@ -1,0 +1,571 @@
+﻿Group,ID,Word,POS,Stress,Transcription,Variation,Page
+G1,1,abdomen,n,antepenult,/ ˈæb.də.mən/,/æb.ˈdoʊ.mən/,182
+G1,2,absent,adj,penult,/ˈæb.sənt/,___,181
+G3,3,absentee,n,ult,/æb.sənˈti/,___,188
+G3,4,abstract,"n, adj",penult,/ˈæb.strækt/,verb: /æbˈstrækt/,185
+G5,5,abstract,n,penult,/ˈæb.strækt/,___,184
+G3,6,absurd,adj,ult,/əbˈsɝd/,___,189
+G3,7,absurdity,n,antepenult,/əb.ˈsɝ.də.ti/,/əbˈzɝdəti/,189
+G3,8,accent,"n, v",penult,/ˈæk.sənt/,/ˈæksɛnt/,187
+G1,9,accident,n,antepenult,/ ˈæk.sɪ.dənt /,___,182
+G4,10,accidential,adj,penult,/ˌæk.sɪ.ˈdɛn.təl/,___,190
+G5,11,achieve,v,ult,/ə.ˈtʃiv/,___,184
+G4,12,act,"n, v",ult,/ ˈækt/,___,190
+G1,13,active,adj,penult,/ ˈæk.tɪv /,___,181
+G4,14,address,n,penult,/ˈæ.drɛs/,verb: /əˈdres/,193
+G4,15,admirable,adj,antepenult,/ˈæd.mə.rə.bəl/,___,190
+G4,16,admire,v,ult,/æd.ˈmaɪər/,___,190
+G5,17,admit,v,ult,/əd.ˈmɪt/,___,184
+G4,18,adorable,adj,antepenult,/ə.ˈdɔ.rə.bəl/,/ə.ˈdoʊ.rə.bəl/,190
+G4,19,adore,v,ult,/ə.ˈdɔr/,/ə.ˈdoʊr /,190
+G3,20,afghanistan,n,antepenult,/æfˈgæ.nə.stæn/,___,187
+G1,21,Africa,n,antepenult,/ ˈæ.frɪ.kə /,___,182
+G1,22,agenda,n,penult,/ ə.ˈdʒɛn.də /,___,182
+G1,23,agent,n,penult,/ ˈeɪ.dʒənt /,___,181
+G2,24,agile,adj,penult,/ˈæ.dʒəl/,/ˈæ.dʒaɪl/,194
+G5,25,agree,v,ult,/ə.ˈgri/,___,184
+G2,26,agriculture,n,1st,/ˈæ.grə.kʌl.tʃər/,/ˈæ.grɪ.kʌl.tʃər/,202
+G5,27,Alabama,n,penult,/ˌæ.lə.ˈbæ.mə./,___,183
+G3,28,alcohol,n,antepenult,/ˈæl.kə.hɔl/,/ˈælkəhɑl/,188
+G3,29,alcoholism,n,1st,/ˈæl.kə.hɑ.lɪ.zəm/,/ˈælkəhɑlɪzəm/,188
+G1,30,algebra,n,antepenult,/ ˈæl.dʒə.brə/,___,182
+G5,31,alien,n,antepenult,/ˈeɪ.li.ən/,___,183
+G2,32,alimony,n,1st,/ˈæ.lə.moʊ.ni/,/ˈæ.lɪ.mə.nɪ/,194
+G1,33,alive,adj,ult,/ ə.ˈlaɪv /,___,181
+G2,34,allegory,n,1st,/ˈæ.lə.gɔ.ri/,/ˈæ.lə.goʊ.ri/,194
+G5,35,ally,n,penult,/ˈæ.laɪ/,verb: /ə.ˈlaɪ/ (ult),184
+G3,36,amend,v,ult,/ə.ˈmɛnd/,___,189
+G3,37,amendment,n,penult,/əˈmɛnd.mənt/,___,189
+G1,38,ample,adj,penult,/ ˈæm.pəl /,___,181
+G1,39,animal,n,antepenult,/ ˈæ.nə.məl /,___,182
+G2,40,anniversary,n,antepenult,/ˌæ.nə.ˈvɜr.sə.ri/,___,194
+G5,41,announce,v,ult,/ə.ˈnaʊns/,___,184
+G2,42,anticipatory,adj,2nd,/æn.ˈtɪ.sə.pə.ˌtɔ.ri/,/ ænˈtɪs ə pəˌtoʊr i /,194
+G1,43,antique,adj,ult,/ æn.ˈtik /,___,181
+G1,44,apocalypse,n,antepenult,/ ə.ˈpɑ.kə.lɪps /,___,182
+G1,45,appeal,n,ult,/ ə.ˈpil /,___,181
+G3,46,arabic,n,antepenult,/ˈæ.rə.bɪk/,___,189
+G2,47,arbitrary,adj,1st,/ˈɑr.bə.trɛ.ri/,___,194
+G5,48,arduous,n,antepenult,/ˈɑr.dʒu.əs/,/ˈɑr.dyu.əs/,183
+G5,49,argue,v,penult,/ˈɑr.gyu/,___,184
+G1,50,arid,adj,penult,/ ˈæ.rɪd /,___,181
+G2,51,aristocracy,n,antipenult,/ˌɛ.rə.ˈstɑ.krə.si/,/ˌæ.rə.ˈstɑ.krə.si/,202
+G3,52,aristotelian,"n, adj",antepenult,/æ.rɪ.stəˈti.li.ən/,/ˌærɪstəˈtiliən/,189
+G3,53,aristotle,n,1st,/ˈæ.rə.stɑ.təl/,___,189
+G1,54,aroma,n,penult,/ ə.ˈroʊ.mə /,___,182
+G3,55,arrival,n,penult,/əˈraɪ.vəl/,___,188
+G3,56,arrive,v,ult,/əˈraɪv/,___,188
+G4,57,artisan,n,antepenult,/ˈɑr.tɪ.zən/,/ˈɑː.tɪ.zæn/,193
+G3,58,ascend,v,ult,/əˈsɛnd/,___,188
+G3,59,ascendant,n,penult,/əˈsɛn.dənt/,___,188
+G1,60,asparagus,n,antepenult,/ ə.ˈspæ.rə.gəs /,___,182
+G3,61,aspect,n,penult,/ˈæ.spɛkt/,___,187
+G2,62,aspirin,n,penult,/ˈæs.prɪn/,"/ˈæs.prən/
+/ˈæs.pərən/",201
+G2,63,assassination,n,penult,/əˌ.sæ.sə.ˈneɪ.ʃən/,___,202
+G3,64,asset,n,penult,/ˈæ.sɛt/,/’æsət/,187
+G1,65,astronomy,n,antepenult,/ ə.ˈstrɑ.nə.mi /,___,182
+G2,66,autograph,"n, v",antepenult,/ˈɑ.tə.græf/,/ˈɔ.tə.græf/,202
+G4,67,baby-sit,v,compound,/ˈbeɪ.bi sɪt/,___,191
+G1,68,balance,"n, v",penult,/ ˈbæ.ləns /,___,181
+G5,69,balance,n,penult,/ˈbæ.ləns/,___,___
+G1,70,ballad,n,penult,/ ˈbæ.ləd /,___,181
+G4,71,ballet,n,ult,/bæ.ˈleɪ/,/ˈbæl.eɪ/,192
+G1,72,balloon,n,ult,/ bə.ˈlun /,___,181
+G3,73,bamboo,n,ult,/bæmˈbu/,___,187
+G1,74,banal,adj,ult,/ bə.ˈnæl/,"/ bə.ˈnɑl/, /ˈbeɪ.nl /",181
+G1,75,barracuda,n,penult,/ bæ.rə.ˈku.də /,___,182
+G1,76,basilica,n,antepenult,/ bə.ˈsɪ.lɪ.kə /,/ bə.ˈzɪ.lɪ.kə/,182
+G4,77,bedridden,adj,antepenult,/ˈbɛd.ˌrɪ.dən/,___,191
+G3,78,bibliography,n,antepenult,/bɪ.bliˈɑg.rə.fi/,___,187
+G5,79,blossom,"n, v",penult,/ˈblɑ.səm/,___,184
+G4,80,blueprint,n,penult,/ˈblu.ˌprɪnt/,___,191
+G1,81,bonanza,n,penult,/ bə.ˈnæn.zə/,/ boʊ.ˈnæn.zə/,182
+G5,82,bother,"v, n",penult,/ˈbɑ.ðər/,___,184
+G1,83,bottle,n,penult,/ ˈbɑ.tl /,___,181
+G1,84,bottom,n,penult,/ ˈbɑ.təm /,___,181
+G3,85,bottomless,adj,antepenult,/ˈbɑ.təm.ləs/,___,189
+G2,86,bravery,n,antepenult,/'breɪ.və.ri/,/'breɪ.vri/,194
+G1,87,Brazil,n,ult,/ brə.ˈzɪl /,___,181
+G3,88,brigade,n,ult,/brɪˈɡeɪd/,___,188
+G4,89,brochure,n,ult,/broʊ.ˈʃʊr/,/ˈbrəʊ.ʃər/,192
+G3,90,brunette,"n, adj",ult,/bruˈnɛt/,___,188
+G1,91,buffalo,n,antepenult,/ ˈbʌ.fə.loʊ /,___,182
+G3,92,burden,"n, v",penult,/ˈbɝ.dən/,___,189
+G3,93,burdensome,adj,antepenult,/ˈbɝ.dən.səm/,___,189
+G1,94,busy,adj,penult,/ ˈbɪ.zi /,___,181
+G1,95,cabbage,n,penult,/ ˈkæ.bɪdʒ /,___,181
+G4,96,cafe,n,ult,/kæ.ˈfeɪ/,/ˈkæf.eɪ/,192
+G5,97,Calcutta,n,penult,/kæl.ˈkʌ.tə/,___,183
+G2,98,camera,n,antepenult,/ˈkæ.mə.rə/,/ˈkæ.mrə/,201
+G1,99,canal,n,ult,/ kə.ˈnæl /,___,181
+G1,100,canoe,n,ult,/ kə.ˈnu /,___,181
+G4,101,car wash,n,compound,/kɑr wɔʃ/,/kɑr wɒʃ/,191
+G5,102,Caracas,n,penult,/kə.ˈrɑ.kəs/,___,183
+G1,103,carrot,n,penult,/ ˈkæ.rət /,___,181
+G4,104,castrate,v,penult,/ ˈkæ.streɪt /,___,193
+G2,105,category,n,1st,/'kæ.tə.gɔ.ri/,"/'kæ.tɪ.gɔ.ri/
+/-.goʊ.ri/",194
+G1,106,cavalier,n,ult,/ kæ.və.ˈlɪər/,/ˈkæ vəˌlɪər /,182
+G3,107,celibacy,n,1st,/ˈse.lɪ.bə.si/,___,188
+G3,108,celibate,adj,antepenult,/ˈsɛ.lə.bət/,___,188
+G1,109,cemetery,n,1st,/ ˈsɛ.mɪ.tɛ.ri /,/ˈsɛ.mə.tɛ.ri/,182
+G2,110,ceremony,n,1st,/ˈsɛ.rə.moʊ.ni/,___,194
+G3,111,certain,adj,penult,/ˈsɝ.tən/,___,189
+G3,112,certainty,n,antepenult,/ˈsɝ.tən.ti/,___,189
+G4,113,chateau,n,ult,/ʃæ.ˈtoʊ/,/ˈʃæt.əʊ/,192
+G5,114,Chicago,n,penult,/ʃɪ.ˈkɑ.ɡəʊ/,___,183
+G1,115,chicken,n,penult,/ ˈtʃɪ.kən /,___,181
+G2,116,choreography,n,antepenult,/kɔ.ri.ˈɑ.grə.fi/,___,202
+G1,117,cigarette,n,ult,/ sɪ.gə.ˈrɛt/,/ˈsɪ gəˌrɛt / (antepenult),182
+G5,118,Cincinnati,n,penult,/ˌsɪn.sɪˈ.næ.ti/,___,183
+G1,119,clarinet,n,ult,/ klæ.rə.ˈnɛt /,___,182
+G4,120,cliche,n,ult,/kliː.ˈʃeɪ/,/ˈkliː.ʃeɪ/,192
+G3,121,clock,n,ult,/klɑk/,___,189
+G3,122,clockwise,"adj, adv",penult,/ˈklɑk.waɪz/,___,189
+G5,123,combat,v,ult,/ˈkɑm.bæt/,___,184
+G5,124,combat,n,penult,/ˈkɑm.bæt/,___,184
+G1,125,comedy,n,antepenult,/ ˈkɑ.mɪ.di /,___,182
+G3,126,committee,n,penult,/kəˈmɪ.ti/,___,188
+G1,127,common,adj,penult,/ ˈkɑ.mən /,___,181
+G4,128,comparable,adj,1st,/ˈkɑm.pə.rə.bəl/,/ˈkɒm.pə.rə.bəl/,190
+G4,129,compare,v,ult,/kəm.ˈpɛr/,___,190
+G2,130,compensatory,adj,2nd,/kəm.ˈpɛn.sə.ˌtɔ.ri/,/kəm.ˈpɛn.sə.ˌtoʊ.ri /,194
+G4,131,competency,n,1st,/ˈkɒm.pɪ.tən.si/,/ˈkɒm.pɪ.tən.si/,190
+G1,132,complete,adj,ult,/ kəm.'plit /,___,181
+G2,133,complimentary,adj,antepenult,/ˌkɑm.plə.ˈmɛn.tə.ri/,___,194
+G5,134,compress,v,ult,/kəm.ˈpres/,noun: /ˈkɒm.prɛs/ (penult),184
+G1,135,computer,n,penult,/ kəm.ˈpju.tər /,___,182
+G2,136,conciliation,n,penult,/kən.ˌsɪ.lɪ.ˈeɪ.ʃən/,___,202
+G5,137,conduct,v,ult,/kən.ˈdʌkt/,noun: /ˈkɒn.dʌkt/ (penult),184
+G2,138,confectionery,n,2nd,/kən.ˈfɛk.ʃə.ˌnɛ.ri/,___,194
+G5,139,confine,v,ult,/kən.ˈfaɪn/,___,184
+G4,140,conflate,v,ult,/kən.ˈfleɪt/,___,193
+G5,141,conflict,n,penult,/ˈkɒn.flɪkt/,verb: /kən.ˈflɪkt/ (ult),184
+G2,142,conservatory,n,2nd,/kən.ˈsɜr.və.tɔ.ri/,/kən.ˈsɜr.və.ˌtoʊ.ri/,194
+G4,143,consistency,n,antepenult,/ kən.ˈsɪ.stən.si /,___,190
+G1,144,constitute,v,antepenult,/ ˈkɑn.stɪ.tjut /,/ ˈkɒn stɪˌtjut /,179
+G1,145,constitutional,adj,antepenult,/ kɑn.stɪ.ˈtu.ʃə.nəl /,/ ˌkɒn stɪˈtju ʃə nl /,179
+G1,146,constitutionality,n,antepenult,/ kɑn.stɪ.tu.ʃə.ˈnæ.lɪ.ti /,/ ˌkɒn stɪˌtju ʃəˈnæ lɪ ti /,179
+G2,147,consumptiveness,n,antepenult,/kən.ˈsʌmp.tɪv.nəs/,___,202
+G2,148,contemporary,adj,2nd,/kən.ˈtɛm.pə.rɛ.ri/,___,194
+G3,149,context,n,penult,/ˈkɑn.tɛkst/,___,189
+G3,150,contextual,adj,antepenult,/kən.ˈtɛk.stʃuəl/,___,189
+G5,151,contrast,n,penult,/ˈkɒn.træst/,verb: /kən.ˈtræst/ (ult),184
+G4,152,controversy,n,antepenult,/ ˈkɒn trəˌvɜr si /,/kənˈtrɒv.ə.si/,193
+G3,153,convict,n,penult,/ˈkɑn vɪkt/,verb: /kənˈvɪkt/ (ult),185
+G1,154,cookie,n,penult,/ ˈkʊ.ki /,___,181
+G5,155,copy,v,penult,/ˈkɒ.pi/,___,184
+G4,156,cornet,n,ult,/kɔːr.ˈnet/,"/ˈkɔr nɪt, kɔrˈnɛt /",192
+G2,157,corollary,n,1st,/ˈkɔ.rə.lɛ.ri/,___,194
+G2,158,coronary,adj,1st,/ˈkɔ.rə.nɛ.ri/,/ˈkɒ.rə.nɛ.ri/,194
+G1,159,correct,adj,ult,/ kə.ˈrɛkt /,___,181
+G1,160,corrupt,adj,ult,/ kəˈrʌpt /,___,181
+G1,161,country,n,penult,/ ˈkʌn.tri /,___,181
+G3,162,crayon,n,penult,/ˈkreɪɑn/,___,187
+G4,163,create,v,ult,/kriˈeɪt/,___,193
+G4,164,cremate,v,penult,/ˈkri.meɪt/,/krɪˈmeɪt/,193
+G4,165,crochet,v,ult,/kroʊ.ˈʃeɪ/,/ˈkroʊ.ʃeɪ/,192
+G3,166,cucumber,n,antepenult,/ˈkju.kʌm.bə˞ /,___,187
+G3,167,cyclone,n,penult,/ˈsaɪkloʊn/,___,187
+G4,168,debate,v,ult,/dɪ.ˈbeɪt/,___,193
+G4,169,debris,n,ult,/də.ˈbri/,/ˈdɛb.ri/,192
+G1,170,December,n,penult,/ dɪ.ˈsɛm.bər /,___,182
+G4,171,decisive,adj,penult,/dɪ.ˈsaɪ.sɪv/,___,190
+G4,172,deflate,v,ult,/dɪ.ˈfleɪt/,___,193
+G1,173,democracy,n,antepenult,/ də.ˈmɑ.krə.si /,___,179
+G1,174,democrat,n,penult,/ dɛ.'mə.kræt /,___,179
+G1,175,democratic,adj,penult,/ dɛ.mə.ˈkræ.tɪk /,___,179
+G4,176,demonstrable,adj,antepenult,/dɪ.ˈmɑn.strə.bəl/,/ˈdɛm.ən.strə.bəl/,190
+G4,177,demonstrate,v,antepenult,/ˈdɛ.mən.streɪt/,___,190
+G2,178,diagnosis,n,penult,/ˌdaɪ.əg.ˈnoʊ.sɪs/,/ˌdaɪ.ɪg.ˈnoʊ.sɪs/,202
+G5,179,diagram,v,penult,/ˈdaɪ.ə.ˌgræm/,___,184
+G4,180,dictate,v,ult,/dɪk.ˈteɪt/,noun: /ˈdɪk.teɪt/ (penult),193
+G2,181,dictionary,n,1st,/ˈdɪk.ʃə.nɛ.ri/,___,194
+G5,182,differ,v,penult,/ˈdɪ.fər/,___,184
+G5,183,digest,n,ult,/daɪ.ˈdʒɛst/,verb: /dɪ.ˈdʒɛst/,184
+G1,184,dimple,n,penult,/ ˈdɪm.pəl /,___,181
+G1,185,diploma,n,penult,/ dɪ.ˈploʊ.mə /,___,182
+G1,186,diplomacy,n,antepenult,/ dɪ.ˈploʊ.mə.si /,___,179
+G1,187,diplomat,n,antepenult,/ ˈdɪ.plə.mæt /,___,179
+G1,188,diplomatic,adj,penult,/ dɪ.plə.ˈmæ.tɪk /,___,179
+G1,189,director,n,penult,/ dɪ.ˈrɛk.tər/,/ daɪ.ˈrɛk.tər/,182
+G5,190,discharge,n,penult,/ˈdɪs.tʃɑrdʒ/,verb: /dɪs.ˈtʃɑrdʒ/,184
+G2,191,discretional,adj,antepenult,/dɪ.ˈskrɛ.ʃə.nəl/,___,202
+G5,192,distance,n,penult,/ˈdɪs.təns/,___,184
+G3,193,diverse,adj,ult,/dɪˈvɝs/,/ˈdɑɪvɜ˞ s/,189
+G3,194,diversity,n,antepenult,/daɪ.ˈvɝ.sə.ti/,"/dɑɪ-/
+/-sɪti/",189
+G1,195,divine,adj,ult,/ dɪ.ˈvaɪn /,___,181
+G3,196,divinity,n,antepenult,/də.ˈvɪ.nə.ti/,/dɪˈvɪnəti/,187
+G2,197,docile,adj,penult,/ˈdɑ.səl/,/ ˈdəʊ.saɪl /,194
+G2,198,documentary,"adj, n",antepenult,/ ˌdɒ.kjʊ.ˈmɛn.tə.rɪ /,/ ˌdɒkjʊ.mɛn.tə.rɪ /,194
+G4,199,donate,n,penult,/ˈdoʊ.neɪt/,/doʊ.ˈneɪt/,193
+G2,200,dormitory,n,1st,/ˈdɔr.mɪ.ˌtɔ.ri/,/ ˈdɔr.mɪ.toʊ.ri /,194
+G4,201,drop-kick,v,compound,/ˈdrɑp.kɪk/,___,191
+G4,202,dry-clean,v,compound,/ˈdraɪ.klin/,___,191
+G2,203,dysentery,n,1st,/ˈdɪs.ən.tɛ.ri/,___,194
+G1,204,early,adj,penult,/ ˈɜr.li /,___,181
+G2,205,eccentricity,n,antepenult,/ɛk.sən.ˈtrɪ.sɪ.ti/,/ɛk.sɛn.ˈtrɪ.sɪ.ti /,202
+G2,206,education,n,penult,/ ɛ.dʒʊ.ˈkeɪ.ʃən /,___,202
+G4,207,elate,n,ult,/ɪ.ˈleɪt/,___,193
+G2,208,elementary,adj,antepenult,/ɛ.lə.ˈmɛn.tə.ri /,/ɛ.lə.ˈmɛn.tri /,194
+G4,209,emergency,n,antepenult,/ɪ.ˈmɜr.dʒən.si/,___,190
+G1,210,empire,n,penult,/ ˈɛm.paɪər/,/ɒm.ˈpɪər /,181
+G3,211,encore,n,penult,/ˈɑŋkɔr/,/ˈɑŋkoʊr/,187
+G1,212,engineer,n,ult,/ ɛn.dʒə.ˈnɪər /,___,182
+G1,213,enigma,n,penult,/ ə.ˈnɪg.mə /,___,182
+G5,214,envy,v,penult,/ˈɛn.vi/,___,184
+G5,215,escort,n,penult,/ˈɛ.skɔrt/,verb: /ɪˈskɔrt/,184
+G3,216,excommunicate,v,antepenult,/ˌɛk.skə.ˈmju.nə.ˌkeɪt/,___,187
+G2,217,exculpatory,adj,2nd,/ɪk.ˈskʌl.pə.tɔ.ri/,/ɪk.ˈskʌl .pə.toʊ.ri/,194
+G1,218,experiment,n,antepenult,/ɪkˈspɛ.rə.mənt/,___,182
+G2,219,exploratory,adj,2nd,/ɪk.ˈsplɔ.rə.tɔ.ri/,___,194
+G5,220,export,n,penult,/ˈɛk.spɔrt/,verb: /ɪk.ˈspɔrt/ (ult),184
+G3,221,expungnatory,adj,2nd,/ˌɛkˈspʌgnəˌtɔri/,___,187
+G5,222,extract,n,penult,/ˈɛk.strækt/,verb: /ɪk.ˈstrækt/,184
+G2,223,facilitate,v,antepenult,/ fə.ˈsɪ.lɪ.teɪt/,___,202
+G4,224,fail-safe,adj,penult,/ˈfeɪl.seɪf/,___,191
+G2,225,famous,adj,penult,/ˈfeɪ.məs/,___,201
+G1,226,father,n,penult,/ ˈfɑ.ðər /,___,181
+G2,227,Feburary,n,1st,/ˈfɛb.ru.ɛ.ri /,/ˈfɛb.yu.ɛ.ri /,194
+G2,228,fertile,adj,penult,/ˈfɜr.tl̩/,/ ˈfɜ.taɪl /,194
+G5,229,figure,v,penult,/ˈfɪ.gyər/,/ ˈfɪ.gər /,184
+G4,230,fillet,n,penult,/ˈfɪl.ɪt/,/fɪ.ˈleɪ/,192
+G4,231,flower girl,n,compound,/ˈflaʊ.ər.ɡɜrl/,___,191
+G1,232,fluent,adj,penult,/ ˈflu.ənt /,___,181
+G4,233,fly-by-night,adj,compound,/ˈflaɪ.baɪ.naɪt/,___,192
+G4,234,forget-me-not,n,compound,/fər.ˈɡɛt.mi.nɑt/,___,192
+G2,235,fragile,adj,penult,/ˈfræ.dʒəl/,/ ˈfræ.dʒaɪl /,194
+G3,236,franchise,n,penult,/ˈfræntʃaɪz/,___,187
+G3,237,frank,"v, adj",ult,/fræŋk/,___,189
+G3,238,frankness,n,penult,/ˈfræŋknəs/,___,189
+G3,239,free,"adj, adv",ult,/fri/,___,188
+G3,240,freedom,n,penult,/ˈfridəm/,___,188
+G3,241,friend,n,ult,/frɛnd/,___,189
+G3,242,friendly,adj,penult,/ˈfrɛn.dli/,___,189
+G3,243,friendship,n,penult,/ˈfrɛnd.ʃɪp/,___,189
+G4,244,frontier,n,ult,/frʌn.ˈtɪər/,/frɒn.ˈtɪ.ər/,192
+G4,245,frustrate,v,penult,/ˈfrʌs.treɪt/,___,193
+G5,246,furnish,v,penult,/ˈfɜr.nɪʃ/,___,184
+G2,247,futile,adj,penult,/ˈfju.tl̩/,/ ˈfju.taɪl /,194
+G4,248,garage,n,ult,/gə.ˈrɑʒ/,/gəˈrɑdʒor/,192
+G1,249,gasoline,n,ult,/ gæ.sə.ˈlin/,/ˈgæ.sə.lin /,182
+G1,250,gazelle,n,ult,/ gə.ˈzɛl /,___,181
+G2,251,general,"n, adj",antepenult,/ˈdʒɛ.nə.rəl/,___,201
+G2,252,generality,n,antepenult,/ dʒɛ.nə.ˈræ.lɪ.ti /,___,202
+G4,253,generative,adj,1st,/ˈdʒɛ.nə.rə.tɪv/,___,190
+G4,254,geographic,adj,antepenult,/dʒi.ˈɑ.grə.fik/,___,190
+G4,255,geography,n,antepenult,/dʒi.ˈɑ.grə.fi/,___,190
+G3,256,geometrical,adj,antepenult,/ˌdʒi.ə.ˈmɛtrɪkəl/,___,189
+G3,257,geometry,n,antepenult,/dʒiˈɑm.ɪ.tri/,___,189
+G1,258,giraffe,n,ult,/dʒə.ˈræf/,___,181
+G3,259,gourmet,adj,penult,/ˈgʊrmeɪ/,___,187
+G3,260,grace,"n, v",ult,/ɡreɪs/,___,188
+G3,261,graceful,adj,penult,/ˈɡreɪs.fəl/,___,188
+G5,262,Granada,n,penult,/grə.ˈnɑ.də/,___,183
+G3,263,gratification,n,penult,/ ˌgræt.ə.fɪ.ˈkeɪ.ʃən /,___,187
+G4,264,Great Britain,n,compound,/ɡreɪt.ˈbrɪ.tən/,___,191
+G3,265,green,"n, adj",ult,/ɡrin/,___,188
+G3,266,greenish,adj,penult,/ˈɡri.nɪʃ/,___,188
+G3,267,grotesque,adj,ult,/ɡroʊ.ˈtɛsk/,___,188
+G3,268,grow,v,ult,/ɡroʊ/,___,189
+G3,269,growth,n,ult,/ɡroʊθ/,___,189
+G5,270,Guatemala,n,penult,/ˌgwɑ.tə.ˈmɑ.lə/,___,183
+G4,271,gyrate,v,ult,/dʒaɪ.ˈreɪt/,___,193
+G1,272,harmonica,n,antepenult,/ hɑr.ˈmɑ.nɪ.kə /,___,182
+G5,273,harvest,v,penult,/ˈhɑr.vɪst/,___,184
+G5,274,Havana,n,penult,/hə.ˈvæ.nə/,___,183
+G3,275,hierarchy,n,1st,/'haɪ.ə.rɑr.ki/,/'haɪrɑrki/,187
+G1,276,hippopotamus,n,antepenult,/ hɪ.pə.ˈpɑ.tə.məs /,___,182
+G3,277,homonym,n,antepenult,/ˈhɑ.mə.nɪm/,/ˈhoʊmənɪm/,189
+G3,278,homophone,n,antepenult,/ˈhɑ.mə.foʊn/,/ˈhoʊməfoʊn/,189
+G3,279,homophony,n,antepenult,/hə.ˈmɑ.fə.ni/,/hoʊmɑfəni/,189
+G1,280,honest,adj,penult,/ ˈɑ.nɪst /,___,181
+G3,281,honor,"n, v",penult,/ˈɑ.nɚ/,___,188
+G3,282,honorific,adj,penult,/ˌɑn.ə.ˈrɪf.ɪk/,___,188
+G1,283,horizon,n,penult,/ hə.ˈraɪ.zən /,___,182
+G2,284,hostile,adj,penult,/ˈhɑs.tl̩/,/ˈhɒs.taɪl̩/,194
+G3,285,hotel,n,ult,/hoʊ.ˈtɛl/,/həʊˈtɛl/,187
+G3,286,human,n,penult,/ˈhju.mən/,/ˈjumən/,188
+G3,287,humanist,n,antepenult,/ˈhju.mə.nɪst/,/ˈjumənɪst/,188
+G3,288,humid,adj,penult,/ˈhju.mɪd/,/ˈjumɪd/,189
+G3,289,humidity,n,antepenult,/hju.ˈmɪ.də.ti/,"/hjuˈmɪdɪti/, /hjuˈmɪdɪti/",189
+G1,290,husband,n,penult,/ ˈhʌz.bənd /,___,181
+G3,291,hygiene,n,penult,/ˈhaɪ.dʒin/,___,187
+G2,292,imaginary,adj,2nd,/ɪ.ˈmæ.dʒə.nɛ.ri/,___,194
+G2,293,imaginative,adj,2nd,/ɪ.ˈmæ.dʒə.nə.tɪv/,___,201
+G2,294,imaginaton,n,penult,/ɪ.ˌmæ.dʒə.ˈneɪ.ʃən/,___,202
+G5,295,implant,v,ult,/ɪm.ˈplænt/,/ɪm.ˈplɑnt/,184
+G5,296,implant,n,penult,/ˈɪm.ˌplænt/,/ˈɪm.plɑnt/,184
+G5,297,import,v,ult,/ɪm.ˈpɔrt/,noun: /ˈɪm pɔrt/,184
+G5,298,increase,v,ult,/ɪn.ˈkris/,noun: /ˈɪn.kris/,184
+G5,299,Indiana,n,penult,/ˌɪn.di.ˈæ.nə/,___,184
+G2,300,infirmary,n,antepenult,/ɪn.ˈfɜr.mə.ri/,/ɪn.ˈfɜ.mə.rɪ /,194
+G4,301,inflate,v,ult,/ɪnˈfleɪt/,___,193
+G2,302,inhibitory,adj,2nd,/ɪn.ˈhɪ.bɪ.tɔ.ri/,___,194
+G4,303,inquiry,n,antepenult,/ˈɪn.kwə.ri/,penult or antepenult,193
+G3,304,insect,n,penult,/ˈɪn.sɛkt/,___,189
+G3,305,insecticide,n,antepenult,/ɪn.ˈsɛk.tə.saɪd/,___,189
+G5,306,insert,v,ult,/ɪn.ˈsɜrt/,noun: /ˈɪn.sɜrt/,184
+G5,307,insult,n,penult,/ˈɪn.sʌlt/,verb: /ɪn.ˈsʌlt/,184
+G5,308,intend,v,ult,/ɪn.ˈtɛnd/,___,184
+G1,309,intense,adj,ult,/ ɪn.ˈtɛns /,___,181
+G5,310,interfere,v,ult,/ˌɪn.tər.ˈfɪər/,___,184
+G2,311,ivory,n,antepenult,/ˈaɪ.və.ri/,/ˈaɪ.vri/,194
+G4,312,jack-in-the-box,n,compound,/ˈdʒæ.kɪn.ðə.bɑks/,___,192
+G3,313,jamboree,n,ult,/ˌdʒæm.bə.ˈri/,___,188
+G1,314,Japan,n,ult,/ dʒə.ˈpæn /,___,181
+G3,315,Japanese,n,ult,/dʒæ.pə.ˈniz/,___,188
+G1,316,July,n,ult,/ dʒu.ˈlaɪ/,/ dʒə.ˈlaɪ/,181
+G1,317,kangaroo,n,ult,/ kæŋ.gə.ˈru /,___,182
+G5,318,Kentucky,n,penult,/kən.ˈtʌ.ki/,___,183
+G3,319,kitchen,n,penult,/ˈkɪ.tʃən/,___,188
+G3,320,kitchenette,n,ult,/ˌkɪtʃəˈnɛt/,___,188
+G3,321,labor,"n, v",penult,/ˈleɪbɚ/,___,189
+G2,322,laboratory,n,2nd,/ˈlæ.brə.tɔ.ri/,/ˈlæ.brə.toʊ.ri/,194
+G3,323,laborious,adj,antepenult,/lə.ˈboʊ.riəs/,/ləˈboʊriəs/,189
+G4,324,Lake Erie,n,compound,/leɪk.ˈɪə.ri/,___,191
+G3,325,laryngitis,n,penult,/ˌlerɪnˈdʒaɪtəs/,/ˌlærɪnˈdʒɑɪtəs/,188
+G3,326,larynx,n,penult,/ˈlerɪŋks/,___,188
+G2,327,legendary,adj,2nd,/ˈlɛ.dʒən.dɛ.ri/,___,194
+G4,328,lemon,n,penult,/ˈlɛ.mən/,___,190
+G4,329,lemonade,n,antepenult,/ˈlɛ.mə.neɪd/,/ˌlɛməˈneɪd/ (ult),190
+G3,330,librarian,n,antepenult,/laɪˈbrɛriən/,"/ˈlɑɪ -/
+/-ˈbreəriən/",189
+G3,331,library,n,antepenult,/ˈlaɪbrɛri/,"/ˈlɑɪ -/
+/- rəri/",189
+G3,332,lion,n,penult,/ˈlaɪən/,___,188
+G3,333,lioness,n,antepenult,/ˈlaɪənɛs/,___,188
+G2,334,literary,adj,2nd,/ˈlɪ.tə.rɛ.ri/,___,194
+G4,335,locate,v,penult,/loʊ.ˈkeɪt/,/loʊˈkeɪt/; penult or ult,193
+G2,336,lottery,n,antepenult,/ˈlɑ.tə.ri/,___,194
+G5,337,Louisiana,n,penult,/lu.i.zi.ˈæ.nə/,/ˌlu.ə.zi.ˈæ.nə/,183
+G3,338,lunatic,"n, adj",antepenult,/ˈlunətɪk/,___,189
+G2,339,macaroni,n,penult,/ˌmæk.ə.ˈroʊ.ni /,___,202
+G1,340,machine,n,ult,/ mə.ˈʃin /,___,181
+G4,341,magazine,n,antepenult,/ˈmæ.gə.zin/,/ˌmæɡəˈzin/,193
+G4,342,manage,v,penult,/ˈmæ.nɪdʒ/,___,190
+G4,343,manageable,adj,1st,/ˈmæ.nɪ.dʒə.bəl/,___,190
+G2,344,management,n,antepenult,/ˈmæn.ɪdʒ.mənt /,___,201
+G2,345,managerial,adj,antepenult,/ˌmæn.ɪˈ.dʒɪər.i.əl /,___,202
+G2,346,mandatory,adj,antepenult,/ˈmæn.də.ˌtɔr.i/,/ ˈmæn dəˌtoʊr i /,194
+G5,347,mania,n,antepenult,/ˈmeɪ.ni.ə/,___,183
+G3,348,martini,n,penult,/mɑrˈtini/,___,187
+G4,349,matchbox,n,penult,/ˈmætʃ.ˌbɑks/,___,191
+G2,350,matrimony,n,antepenult,/ˈmæ.trə.ˌmoʊ.ni /,/ ˈmætrɪmənɪ /,194
+G1,351,mayonnaise,n,ult,/ meɪ.ə.ˈneɪz/,/ˈmeɪ.ə.neɪz /,182
+G4,352,mediative,adj,1st,/ˈmi.di.eɪ.tɪv/,___,190
+G4,353,migrate,v,penult,/ˈmaɪ.greɪt/,___,193
+G2,354,military,adj,1st,/ˈmɪl.ɪ.ˌtɛr.i/,___,194
+G3,355,million,n,penult,/ˈmɪljən/,___,188
+G3,356,millionaire,n,ult,/ˌmɪljəˈnɛr/,___,188
+G5,357,Milwaukee,n,penult,/mɪl.ˈwɔ.ki/,___,183
+G2,358,missile,n,penult,/ˈmɪs.əl/,/ ˈmɪsaɪl /,195
+G2,359,mobile,"adj, n",penult,/ˈmoʊ.bəl/,/ ˈməʊbaɪl /,195
+G2,360,modality,n,antepenult,/moʊ.ˈdæl.ɪ.ti/,___,202
+G3,361,moment,n,penult,/ˈmoʊmənt/,___,189
+G3,362,momentarily,adv,antepenult,/ˌmoʊmənˈtɛrəli/,___,189
+G2,363,momentary,adj,1st,/ˈmoʊ.mən.ˌtɛr.i/,___,194
+G3,364,momentous,adj,penult,/məˈmɛntəs/,/moʊˈmɛntəs/,189
+G2,365,monastery,n,1st,/ˈmɒn.əs.ˌtɛ.ri/,___,194
+G2,366,monetary,adj,1st,/ˈmɒn.ɪ.ˌtɛr.i/,/ ˈmʌn ɪˌtɛr i /,194
+G5,367,Montana,n,penult,/mɒn.ˈtæ.nə/,___,183
+G5,368,Morocco,n,penult,/mə.ˈrɒk.oʊ/,___,183
+G4,369,mother-in-law,n,compound,/ˈmʌ.ðər.ɪn.ˌlɔ/,___,192
+G2,370,motivate,v,antepenult,/ˈmoʊ.tə.veɪt/,___,201
+G4,371,Mount Sinai,n,compound,/maʊnt.ˈsaɪ.naɪ/,___,191
+G3,372,mountain,n,penult,/ˈmaʊntən/,/ˈmaʊntɪn/,188
+G3,373,mountaineer,n,ult,/ˌmaʊntəˈnɪr/,___,188
+G4,374,moustache,n,penult,/ˈmʌs.tæʃ/,/məˈstæʃ/,193
+G1,375,mundane,adj,ult,/ mʌn.ˈdeɪn/,/ˈmʌn.deɪn /,181
+G4,376,mutate,v,penult,/ˈmju.teɪt/,___,193
+G2,377,mythical,adj,antepenult,/ˈmɪθ.ɪ.kəl/,___,202
+G3,378,nation,n,penult,/ˈneɪʃən/,___,188
+G3,379,nationhood,n,antepenult,/ˈneɪʃənhʊd/,___,188
+G4,380,nationwide,adj,compound,/ˈneɪ.ʃən.waɪd/,___,191
+G2,381,necessary,adj,1st,/ˈnɛs.ə.ˌsɛr.i /,___,194
+G4,382,negate,v,ult,/nɪ.ˈgeɪt/,/nɪˈgeɪt/; ult or penult,193
+G4,383,negative,adj,antepenult,/ˈnɛ.gə.tɪv/,___,190
+G2,384,neutralize,v,antepenult,/ˈnɛs.ə.ˌsɛr.i/,___,202
+G3,385,obese,adj,ult,/oʊ.ˈbis/,___,189
+G3,386,obesity,n,antepenult,/oʊ.ˈbi.sə.ti/,/əʊˈbisəti/,189
+G1,387,obscene,adj,ult,/ əb.ˈsin /,___,181
+G1,388,obscure,adj,ult,/ əb.ˈskjʊr /,___,181
+G2,389,observatory,n,2nd,/əb.ˈzɜr.və.ˌtɔr.i/,/ əbˈzɜr vəˌtoʊr i /,194
+G4,390,offensive,adj,penult,/ə.ˈfɛn.sɪv/,/əˈfɛn sɪv/,190
+G1,391,okay,adj,ult,/oʊ.ˈkeɪ/,/ ˈoʊ.keɪ /,181
+G2,392,opera,n,penult,/ˈɑp.ər.ə/,/ ˈɒp rə /,201
+G2,393,operatic,n,antepenult,/ˌɒp.ə.ˈræt.ɪk/,___,202
+G2,394,ordinary,adj,antepenult,/ˈɔr.dn.ˌɛr.i/,___,194
+G1,395,origin,n,antepenult,/ ˈɔr.ɪ.dʒɪn /,/ ˈɑr.ɪ.dʒɪn /,"179, 182"
+G1,396,original,adj,antepenult,/ ə.ˈrɪ.dʒə.nl /,___,179
+G1,397,originality,n,antepenult,/ ə.rɪ.dʒə.ˈnæ.lɪ.ti /,___,179
+G5,398,Osaka,n,penult,/oʊ.ˈsɑ.kə/,___,183
+G4,399,overdose,n,antepenult,/ˈoʊ.vər.doʊs/,/ˈəʊvərdəʊs/,191
+G4,400,overripe,adj,antepenult,/ ˈoʊ.vər.raɪp/,/ˌəʊ vərˈraɪp/; ult or antepenult,191
+G4,401,oversleep,v,ult,/oʊ.vər.ˈslip/,/ˌəʊ vərˈsliːp/,191
+G1,402,parade,n,ult,/ pə.ˈreɪd /,___,181
+G2,403,pathology,n,antepenult,/pə.ˈθɒl.ə.dʒi /,___,201
+G1,404,perfect,adj,penult,/ ˈpɜr.fɪkt /,___,181
+G5,405,period,n,antepenult,/ˈpɪə.ri.əd/,/ˈpɪ.ri.əd/,183
+G3,406,periodic,adj,penult,/ˌpɪ.ri.ˈɑ.dɪk/,___,189
+G5,407,permit,n,penult,/ˈpɜr.mɪt/,verb: /pər.ˈmɪt/ (ult),184
+G3,408,person,n,penult,/ˈpɝ.sən/,___,189
+G3,409,personify,v,antepenult,/pɚ.ˈsɑ.nə.faɪ/,/pɚˈsɑnəfɑɪ/,189
+G4,410,phonate,v,penult,/ˈfoʊ.neɪt/,___,193
+G4,411,phonecard,n,penult,/ˈfoʊn.kɑrd/,___,191
+G2,412,phonological,adj,antepenult,/ˌfoʊn.lˈɒdʒ.ɪ.kəl /,___,202
+G1,413,photograph,n,antepenult,/ ˈfoʊ.tə.græf /,/ ˈfoʊ.tə.grɑf /,179
+G1,414,photographic,adj,penult,/ foʊ.tə.ˈgræ.fɪk /,___,179
+G1,415,photography,n,antepenult,/ fə.ˈtɑ.grə.fi /,___,179
+G3,416,picture,"n, v",penult,/ˈpɪk.tʃɚ/,___,188
+G3,417,picturesque,adj,ult,/ˌpɪk.tʃə.ˈrɛsk/,___,188
+G4,418,plateau,n,ult,/plæ.ˈtoʊ/,___,192
+G3,419,play,"n, v",ult,/pleɪ/,___,188
+G3,420,player,n,penult,/ˈpleɪ.ɚ/,___,188
+G1,421,policy,n,antepenult,/ ˈpɑ.lə.si /,___,182
+G4,422,portuguese,adj,ult,/ˈpɔr.tʃə.giz/,/ˌpɔr tʃəˈgis/,193
+G4,423,postman,n,penult,/ˈpoʊst.mən/,/ˈpəʊstmən/,191
+G4,424,potluck,n,penult,/ˈpɑt.lʌk/,/ˈpɒtˌlʌk/; penult or ult,193
+G4,425,practical,adj,antepenult,/ˈpræk.tɪ.kəl/,/ˈpræktɪkl/,190
+G1,426,precise,adj,ult,/ prɪ.ˈsaɪs /,___,181
+G5,427,predict,v,ult,/prɪ.ˈdɪkt/,___,184
+G4,428,prefer,v,ult,/prɪ.ˈfɜr/,___,190
+G4,429,preferable,adj,1st,/ˈprɛ.fə.rə.bəl/,/prɪˈfɜrə bəl/,190
+G4,430,premier,n,ult,/prɪ.ˈmɪər/,/prɪˈmɪr/,192
+G4,431,presidency,n,1st,/ˈprɛ.zɪ.dən.si/,___,190
+G2,432,primary,adj,antepenult,/ˈpraɪ.mɛr.i /,/ ˈpraɪ mə ri /,194
+G4,433,princess,n,penult,/ˈprɪn.sɛs/,/ˈprɪn sɪs/,193
+G2,434,principal,adj,antepenult,/ˈprɪn.sə.pəl /,___,201
+G2,435,principality,n,antepenult,/ˌprɪn.sə.ˈpæl.ɪ.ti /,___,202
+G2,436,profile,"v, n",penult,/ˈproʊ.faɪl/,,
+G2,437,profundity,n,antepenult,/.prə.ˈfʌn.dɪ.ti /,___,202
+G5,438,progress,n,penult,/ˈprɒg.rɛs/,"/ˈproʊ.grɛs/, verb: /prə.ˈgrɛs/",184
+G5,439,project,n,penult,/ˈprɒ.dʒɛkt/,verb: /prə.ˈdʒɛkt/,184
+G2,440,promissory,adj,1st,/ˈprɒm.ə.ˌsɔr.i/,/ ˈprɒm əˌsoʊr i /,194
+G1,441,proper,adj,penult,/ ˈprɑ.pər /,___,181
+G3,442,protest,n,penult,/ˈproʊ.tɛst/,___,185
+G3,443,protest,n,ult,/proʊ.ˈtɛst/,verb: /prə.ˈtɛst/,185
+G2,444,protestation,n,penult,/ˌprɒt.əˈ.steɪ.ʃən /,/ ˌproʊ təˈsteɪ ʃən /,202
+G4,445,pulsate,v,penult,/ˈpʌl.seɪt/,___,193
+G5,446,punish,v,penult,/ˈpʌ.nɪʃ/,___,184
+G2,447,punishable,adj,1st,/ˈpʌ.nɪ.ʃə.bəl/,___,202
+G4,448,question,n,penult,/ˈkwɛs.tʃən/,___,190
+G4,449,questionable,adj,1st,/ˈkwɛs.tʃə.nə.bəl/,___,190
+G3,450,raccoon,n,ult,/ræ.ˈkun/,___,187
+G1,451,ready,adj,penult,/ ˈrɛ.di /,___,181
+G3,452,realization,n,penult,/ˌri.ə.ləˈzeɪ.ʃən/,/ˌriəlaɪˈzeɪʃən/,188
+G3,453,realize,v,penult,/ˈri.ə.laɪz/,___,188
+G2,454,reasonable,adj,1st,/ˈri.zə.nə.bəl/,/ˈriz.nə.bəl/,201
+G3,455,rebel,n,penult,/ˈrɛbəl/,verb: /rɪ.ˈbɛl/,185
+G4,456,recess,n,penult,/ˈri.sɛs/,/rɪˈsɛs/,193
+G2,457,recessional,adj,antepenult,/rɪ.ˈsɛ.ʃə.nl̩/,/rɪ.ˈsɛ.ʃə.nəl/,202
+G2,458,recessional,n,antepenult,/rɪ.ˈsɛ.ʃə.nl̩/,/rɪ.ˈsɛ.ʃə.nəl/,202
+G4,459,recital,n,penult,/rɪ.ˈsaɪ.təl/,___,190
+G3,460,reconciliation,n,penult,/rɛ.kən.sɪ.liˈeɪ.ʃən/,___,187
+G4,461,red hot,adj,compound,/ˈrɛd.hɑt/,___,191
+G2,462,reformatory,n,2nd,/rɪ.ˈfɔr.mə.tɔ.ri/,/rɪ.ˈfɔ.mə.tɔ.ri/,194
+G2,463,reformatory,adj,2nd,/rɪ.ˈfɔr.mə.tɔ.ri/,/rɪ.ˈfɔ.mə.tɔ.ri/,194
+G5,464,refund,n,penult,/ˈri.fʌnd/,verb: /rɪ.ˈfʌnd/,184
+G4,465,refusal,n,penult,/rɪ.ˈfju.zəl/,/rɪˈfjuːzl/,190
+G3,466,refuse,v,ult,/rə.ˈfjuz/,/rɪˈfjuz/,185
+G5,467,reject,v,ult,/rɪ.ˈdʒɛkt/,___,184
+G5,468,reply,v,ult,/rɪ.ˈplaɪ/,___,184
+G2,469,reptile,n,penult,/ˈrɛp.taɪl/,/ˈrɛp.tɪl/,195
+G5,470,rescue,v,penult,/ˈrɛs.kju/,___,184
+G4,471,research,n,ult,/rɪ.ˈsɜrtʃ/,/ˈri sɜrtʃ/,193
+G2,472,resignation,n,penult,/rɛ.zɪɡ.ˈneɪ.ʃən/,___,202
+G2,473,resumption,n,penult,/rɪ.ˈzʌmp.ʃən/,___,202
+G5,474,retard,n,penult,/ˈri.tɑrd/,verb: /rɪ.ˈtɑrd/,184
+G3,475,rhinoceros,n,antepenult,/raɪ.ˈnɑ.sɚ.əs/,___,187
+G1,476,robust,adj,ult,/ roʊ.ˈbʌst /,/ˈroʊ.bʌst / (penult),181
+G4,477,rotate,v,penult,/ˈroʊ.teɪt/,/rəʊˈteɪt/,193
+G2,478,salary,n,antepenult,/ˈsæ.lə.rɪ/,___,194
+G4,479,salon,n,ult,/sə.ˈlɑn/,/ˈsæl.ɒn/,192
+G2,480,sanitary,adj,1st,/ˈsæ.nɪ.tɛ.ri/,/ˈsæ.nə.tɛ.ri/,194
+G1,481,sardine,n,ult,/ sɑr.ˈdin /,___,181
+G5,482,Savannah,n,penult,/sə.ˈvæ.nə/,___,183
+G2,483,saxophone,n,antepenult,/ˈsæk.sə.foʊn/,___,202
+G4,484,seasick,adj,penult,/ˈsi.sɪk/,___,191
+G4,485,seasonal,adj,antepenult,/ˈsi.zə.nəl/,___,190
+G5,486,Seattle,n,penult,/si.ˈæ.tl/,___,183
+G2,487,secretary,n,1st,/ˈsɛk.rɪ.tɛ.ri/,/ˈsɛk.rə.tɛ.ri/,194
+G1,488,secure,adj,ult,/ sɪ.ˈkjʊər /,/ sɪ.ˈkjʊə /,181
+G4,489,sedative,n,antepenult,/ˈse.də.tɪv/,___,190
+G2,490,sedentary,adj,1st,/ˈsɛ.dn̩.tɛ.ri/,/ˈsɛ.dən.tɛ.ri/,194
+G2,491,senile,adj,penult,/ˈsi.naɪl/,"/ˈsi.nɪl/
+/ˈsɛ.naɪl/",195
+G1,492,serenade,n,ult,/ sɛ.rə.ˈneɪd /,___,182
+G1,493,serene,adj,ult,/ sə.ˈrin /,___,181
+G1,494,shampoo,n,ult,/ ʃæm.ˈpu /,___,181
+G3,495,silk,n,ult,/sɪlk/,___,189
+G3,496,silky,adj,penult,/ˈsɪl.ki/,___,189
+G1,497,sincere,adj,ult,/ sɪn.ˈsɪər /,___,181
+G1,498,solid,adj,penult,/ ˈsɑl.ɪd /,___,181
+G4,499,souffle,n,ult,/su.ˈfleɪ/,/ˈsuː.fleɪ/,192
+G3,500,special,"n, adj",penult,/ˈspɛ.ʃəl/,___,189
+G3,501,specialize,v,antepenult,/ˈspɛ.ʃə.laɪz/,___,189
+G3,502,speed,"n, v",ult,/spid/,___,189
+G3,503,speedometer,n,antepenult,/spɪ.ˈdɑ.mə.tɚ/,___,189
+G1,504,spinach,n,penult,/ ˈspɪ.nɪtʃ /,___,181
+G4,505,spoon-food,v,compound,/spun.ˈfud/,___,191
+G4,506,stagnate,v,penult,/ˈstæɡ.neɪt/,/stæɡˈneɪt/,193
+G2,507,stationery,n,1st,/ˈsteɪ.ʃə.nɛ.ri/,___,194
+G2,508,sterile,adj,penult,/ˈstɛ.rɪl/,/ˈstɛ.rəl/,195
+G5,509,study,v,penult,/ˈstʌ.di/,___,184
+G5,510,subject,n,penult,/ˈsʌb.dʒɪkt/,verb: /səb.ˈdʒɛkt/,184
+G3,511,submissive,adj,penult,/səb.ˈmɪ.sɪv/,___,188
+G3,512,submit,v,ult,/səb.ˈmɪt/,___,188
+G3,513,substance,n,penult,/ˈsʌb.stəns/,___,189
+G3,514,substantial,adj,penult,/səb.ˈstæn.ʃəl/,___,189
+G1,515,sudden,adj,penult,/ ˈsʌ.dn /,___,181
+G3,516,supreme,adj,ult,/su.ˈprim/,/səˈprim/,187
+G5,517,surface,v,penult,/ˈsɜr.fɪs/,___,184
+G5,518,suspect,v,ult,/səs.ˈpɛkt/,___,184
+G5,519,suspect,n,penult,/ˈsʌs.pɛkt/,___,184
+G3,520,taboo,"n, adj",ult,/tə.ˈbu/,/tæˈbu/,187
+G5,521,Tallahassee,n,penult,/ˌtæ.lə.ˈhæ.si/,___,183
+G4,522,teapot,n,penult,/ˈti.pɑt/,/ˈtiː.pɒt/,191
+G2,523,temperature,n,1st,/ˈtɛm.pə.rə.tʃər/,/ˈtɛm.prə.tʃər/; /ˈtɛm.pər.tʃər/,201
+G2,524,temporary,adj,1st,/ˈtɛm.pə.rɛ.ri/,___,194
+G2,525,territory,n,1st,/ˈtɛ.rɪ.tɔ.ri/,/ˈtɛ.rɪ.toʊ.ri/,194
+G2,526,testament,n,antepenult,/ˈtɛs.tə.mənt/,___,201
+G2,527,testimony,n,1st,/ˈtɛs.tə.moʊ.ni/,/ˈtɛs.tə.mə.ni/; /ˈtɛs.tɪ.mə.ni/,"194, 202"
+G1,528,thermometer,n,antepenult,/ θər.ˈmɑ.mɪ.tər /,___,182
+G1,529,Tibet,n,ult,/ tɪ.ˈbɛt /,___,181
+G1,530,tomato,n,penult,/ tə.ˈmeɪ.toʊ /,/ tə.ˈmɑ.toʊ /,182
+G4,531,toupee,n,ult,/tu.ˈpeɪ/,___,192
+G2,532,transcription,n,penult,/træn.ˈskrɪp.ʃən/,___,202
+G5,533,transfer,"n, v",penult,/ˈtræns.fər/,verb: /træns.ˈfɜr/,184
+G2,534,transistor,"n, adj",penult,/træn.ˈzɪs.tər/,___,202
+G4,535,translate,v, penult,/træn.sˈleɪt/,/trænzˈleɪt/ (ult),193
+G3,536,trapeze,n,ult,/trə.ˈpiz/,/træˈpiz/,187
+G1,537,typhoon,n,ult,/ taɪ.ˈfun /,___,181
+G4,538,undertake,v,ult,/ʌn.dəɻ.ˈteɪk/,/ˌʌn.dəˈteɪk/,191
+G4,539,underwear,n,antepenult,/ˈʌn.dəɻ.wer/,/ˈʌn.də.weər/,191
+G3,540,upset,"n, v, adj",penult,/ˈʌp.sɛt/,"verb, adjective: /əp.ˈsɛt/",185
+G3,541,urbanity,n,antepenult,/ɜ˞.ˈbæn.ə.ti/,___,187
+G4,542,vacate,v,penult,/və.ˈkeɪt/,/veɪˈkeɪt/,193
+G4,543,valet,n,ult,/væ.ˈleɪ/,/ˈvæleɪ/,192
+G2,544,vegetarian,"n, adj",antepenult,/vɛ.dʒɪ.ˈtɛ.ri.ən/,/vɛ.dʒə.ˈtɛ.ri.ən/,201
+G5,545,vendetta,n,penult,/vɛn.ˈdɛ.tə/,___,183
+G5,546,Venezuela,n,penult,/vɛ.nəˈ.zweɪ.lə/,___,183
+G4,547,vermouth,n,ult,/vər.ˈmuθ/,___,192
+G2,548,versatile,adj,antepenult,/ˈvɜr.sə.tl̩/,/ˈvɜr.sə.təl/,195
+G2,549,veteran,"n, adj",antepenult,/ˈvɛ.tə.rən/,/ˈvɛ.trən/,201
+G4,550,vibrate,v,penult,/ˈvaɪ.breɪt/,___,193
+G5,551,Vienna,n,penult,/vi.ˈɛn.nə/,___,183
+G2,552,virile,adj,penult,/ˈvɪ.rəl/,/ˈvɪ.raɪl/,195
+G2,553,visionary,adj,1st,/ˈvɪ.ʒə.nɛ.ri/,/ˈvɪ.ʒə.nə.rɪ/,194
+G5,554,visit,v,penult,/ˈvɪ.zɪt/,___,184
+G1,555,vitamin,n,antepenult,/ ˈvaɪ.tə.mɪn /,___,182
+G1,556,vulgar,adj,penult,/ ˈvʌl.gər /,___,181
+G1,557,warrantee,n,ult,/ wɔ.rən.ˈti /,/ wɑ.rən.ˈti/,182
+G4,558,watch,n,compound,/ˈstɑp.wɑtʃ/,/stɒp wɑːtʃ/,191
+G4,559,weekend,n,penult,/ˈwi.kɛnd/,___,193
+G4,560,white house,n,compound,/ˈwaɪt.haʊs/,___,191
+G5,561,worry,v,penult,/ˈwɜ.ri/,___,184
+G1,562,yellow,adj,penult,/ ˈyɛ.loʊ /,___,181
+G5,563,Yokohama,n,penult,/ˌyoʊ.kəˈhɑ.mə/,___,183
+G1,564,zipper,n,penult,/ ˈzɪ.pər /,___,181
